@@ -69,6 +69,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>React Random Number Generator</h1>
+        <p>Refer github <a style={{textDecoration:"none", color:"lightseagreen", fontWeight:"700"}} href="https://github.com/iliyas2008/react-random-number-generator">Repo</a></p>
       </header>
       <section className="App-body">
       <h2 className="d-inline text-secondary">Result</h2>
